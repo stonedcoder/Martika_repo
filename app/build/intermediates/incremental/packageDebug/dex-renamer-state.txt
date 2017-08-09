@@ -1,0 +1,7 @@
+#Tue Aug 08 23:17:24 EDT 2017
+base.0=/Users/martikaevans/AndroidStudioProjects/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bb2cd8badbc3a885eaf539d33b90c2422ac9be6a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/martikaevans/AndroidStudioProjects/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d21c69a085906aef3476f2e18d679106d1abb2a/classes.dex
+base.1=/Users/martikaevans/AndroidStudioProjects/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6d21c69a085906aef3476f2e18d679106d1abb2a
+file.0=/Users/martikaevans/AndroidStudioProjects/QuizApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bb2cd8badbc3a885eaf539d33b90c2422ac9be6a/classes.dex

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" >
+
+
+<LinearLayout
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context="com.example.andriod.quizapp.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:text="How old is the air trapped inside an iceburg? " />
+
+    <RadioButton
+        android:id="@+id/Q1A1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A. 10 years "
+        android:checkedButton="@id/Q1A1"/>
+
+    <RadioButton
+        android:id="@+id/Q1A2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="B. 100 years"
+        />
+
+    <RadioButton
+        android:id="@+id/Q1A3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="C. 1,000 years " />
+
+    <RadioButton
+        android:id="@+id/Q1A4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="D. 10,000 years "
+       />
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp"
+        android:padding="8dp">
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:padding="16dp"
+            android:text="Score"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/Score_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:padding="16dp"
+            android:text="0"
+            android:textSize="20sp" />
+
+
+
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/Score_button_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:onClick="Submit"
+        android:text="Submit" />
+</LinearLayout>
+</ScrollView>

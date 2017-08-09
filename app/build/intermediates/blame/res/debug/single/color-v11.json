@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\vraun\\Desktop\\QuizApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\vraun\\.android\\build-cache\\b58614877ec23e677e84b63796dc1419e64ad1ca\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\martikaevans\\AndroidStudioProjects\\QuizApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\martikaevans\\.android\\build-cache\\aff16ae5a0e39b28748ff92d3035add9d2fc6559\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\vraun\\Desktop\\QuizApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\vraun\\.android\\build-cache\\b58614877ec23e677e84b63796dc1419e64ad1ca\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\martikaevans\\AndroidStudioProjects\\QuizApp\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\martikaevans\\.android\\build-cache\\aff16ae5a0e39b28748ff92d3035add9d2fc6559\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

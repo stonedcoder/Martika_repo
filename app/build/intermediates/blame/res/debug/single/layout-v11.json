@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/martikaevans/AndroidStudioProjects/QuizApp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/martikaevans/.android/build-cache/4d593d83f08bf120126f19e2435cf3824378e466/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/martikaevans/AndroidStudioProjects/QuizApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/martikaevans/.android/build-cache/4d593d83f08bf120126f19e2435cf3824378e466/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/martikaevans/AndroidStudioProjects/QuizApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/martikaevans/.android/build-cache/4d593d83f08bf120126f19e2435cf3824378e466/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/martikaevans/AndroidStudioProjects/QuizApp/app/build/intermediates/res/merged/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/martikaevans/.android/build-cache/4d593d83f08bf120126f19e2435cf3824378e466/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/martikaevans/AndroidStudioProjects/QuizApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/martikaevans/.android/build-cache/4d593d83f08bf120126f19e2435cf3824378e466/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/martikaevans/AndroidStudioProjects/QuizApp/app/build/intermediates/res/merged/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/martikaevans/.android/build-cache/4d593d83f08bf120126f19e2435cf3824378e466/output/res/layout-v11/notification_template_big_media_custom.xml"
+    }
+]
